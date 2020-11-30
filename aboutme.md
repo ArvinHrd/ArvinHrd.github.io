@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tentangku
+title: About me
 subtitle: Ingin mengenal ku lebih dekat 
 ---
 
